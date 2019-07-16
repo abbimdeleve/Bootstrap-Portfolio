@@ -30,7 +30,10 @@ h1 {
     border-radius: 50%;
 }
 p {
-    margin-top:30px;
+    margin-top: 120px;
+    padding-right: 50px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .row2 {
     margin-top: 40px;
@@ -47,4 +50,15 @@ p {
 .containerPort2 {
    
     margin-top: 20px;
+}
+
+@media screen and (max-width: 980px){
+   
+}
+@media screen and (max-width: 768px){
+    
+
+}
+@media screen and (max-width: 640px){
+
 }
