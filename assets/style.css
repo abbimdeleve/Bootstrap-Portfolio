@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(240, 177, 95)
+}
+
+.text-muted {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    border-top: 20px;
+}
+header {
+    margin-bottom: 35px;
+}
+h1 {
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'Lobster', cursive;
+    font-size: 350%;
+}
+
+.navbar-nav {
+    padding-left: 36%;
+    color: black;
+    background: url(./images/papyrus.png);
+    width: 100%;
+}
+.mepic {
+    margin-top: 50px;
+    border-radius: 50%;
+}
+p {
+    margin-top:30px;
+}
+.row2 {
+    margin-top: 40px;
+}
+.col3 {
+    object-fit: cover;
+    width: 255px;
+    height: 200px;
+}
+.containerPort {
+    
+    margin-top:30px;
+}
+.containerPort2 {
+   
+    margin-top: 20px;
+}
