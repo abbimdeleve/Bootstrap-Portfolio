@@ -51,6 +51,14 @@ p {
    
     margin-top: 20px;
 }
+.colC {
+    width: 33%;
+    position: relative;
+}
+.cC {
+    position: absolute;
+    color: aliceblue;
+}
 
 @media screen and (max-width: 980px){
    
