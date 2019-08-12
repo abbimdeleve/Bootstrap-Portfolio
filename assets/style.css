@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(240, 177, 95)
+    background-image: url(./images/openbookBG.jpg);
+    background-repeat: no-repeat;
+    
 }
 
 .text-muted {
@@ -19,11 +21,13 @@ h1 {
     font-size: 350%;
 }
 
-.navbar-nav {
-    padding-left: 36%;
+#navBarStyle {
     color: black;
     background: url(./images/papyrus.png);
     width: 100%;
+}
+.navbar-nav {
+    box-align: center;
 }
 .mepic {
     margin-top: 50px;
@@ -35,7 +39,7 @@ p {
     text-align: justify;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.row2 {
+.containerCon {
     margin-top: 40px;
 }
 .col3 {
@@ -43,20 +47,23 @@ p {
     width: 255px;
     height: 200px;
 }
-.containerPort {
-    
-    margin-top:30px;
+
+.rowPort {
+    margin-top: 80px;
 }
-.containerPort2 {
-   
-    margin-top: 20px;
-}
-.colC {
-    width: 33%;
+
+#linkPic {
+    box-align: center;
     position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-size:     cover;
 }
+
 .cC {
-    position: absolute;
+    
     color: aliceblue;
 }
 
