@@ -49,7 +49,9 @@ p {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2em;
-    padding-bottom: 20px;
+    color:  rgb(67, 134, 117);
+    text-decoration: underline;
+    padding-bottom: 30px;
 }
 .rowPort {
     margin-top: 60px;
