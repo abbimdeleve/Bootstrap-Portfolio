@@ -56,6 +56,10 @@ p {
 .rowPort {
     margin-top: 60px;
 }
+.row2 {
+    padding-top: 160px;
+}
+
 #linkPic {
     box-align: center;
     position: relative;
