@@ -1,4 +1,4 @@
-body{
+.bodyPic {
     background-image: url(./images/openbookBG.jpg);
     background-repeat: no-repeat;
     
@@ -60,14 +60,20 @@ p {
     padding-top: 160px;
 }
 
+.row3 {
+    padding-top: 160px;
+}
+
 #linkPic {
     box-align: center;
     position: relative;
     float: left;
-    width:  100px;
-    height: 100px;
     background-position: 50% 50%;
     background-size:     cover;
+}
+#pic {
+    height: 150px;
+    width: 300px;
 }
 a {
     color: rgb(67, 134, 117);
@@ -75,6 +81,19 @@ a {
 .cC {
     background-color: white;
 }
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(159, 234, 240);
+  color: white;
+  text-align: center;
+}
+
+
 
 @media screen and (max-width: 980px){
    
